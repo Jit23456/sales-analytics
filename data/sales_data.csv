@@ -1,0 +1,16 @@
+date,region,product,quantity,unit_price,sales_rep
+2024-01-05,North,Laptop,3,1200,Alice
+2024-01-12,South,Monitor,5,350,Bob
+2024-01-18,East,Laptop,2,1200,Carol
+2024-02-03,West,Keyboard,10,80,Alice
+2024-02-14,North,Monitor,4,350,Bob
+2024-02-20,South,Laptop,1,1200,Carol
+2024-03-08,East,Keyboard,15,80,Alice
+2024-03-15,West,Laptop,6,1200,Bob
+2024-03-22,North,Monitor,3,350,Carol
+2024-04-01,South,Keyboard,12,80,Alice
+2024-04-10,East,Laptop,4,1200,Bob
+2024-04-18,West,Monitor,7,350,Carol
+2024-05-05,North,Laptop,5,1200,Alice
+2024-05-12,South,Keyboard,8,80,Bob
+2024-05-20,East,Monitor,6,350,Carol
